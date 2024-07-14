@@ -1,9 +1,9 @@
 <p align="center">
-<img src="./img/intercambio.png"
+<img src="./img/libros.png"
  width="300">
 </p>
 
-<h1 align="center" id="convertidor">CONVERTIDOR DE MONEDAS </h1>
+<h1 align="center" id="catalogos">cATALOGOS DE LIBROS </h1>
 
 ## Insignias
 
@@ -13,7 +13,7 @@
 
 ## Índice
 1
-1. [CONVERTIDOR DE MONEDAS](#convertidor)
+1. [CONVERTIDOR DE MONEDAS](#catalogo)
 
 2. [Insignias](#insignias)
 
@@ -35,7 +35,7 @@
 
 ## Descripción del proyecto
 
-    Convertidor de monedas es un Challenge propuesto por Alura-Latam para poner en practica lo aprendido durante los cursos de Java Orientado a Objetos, y como su nombre lo indica es un programa en java que convierte una divisa o otra, tomando en cuenta el valor del mercado mediaten una API.
+    Aplicacion de consola, Cahllenge propuesto por Alura-Latam, el objetivo de la aplicacion es almacenar libros en un abase de datos y poder consultar los registros de los libros.
 
 ## Estado del proyecto
 
@@ -47,22 +47,31 @@ FINALIZADO
 
 > Menu de opciones.
 
-    - Una ves terminado el programa regresa al menu hasta que el usuario seleccione salir.
+    - Buscar libro por titulo
+    - Listar libros registrados
+    - Listar autores registrados
+    - listar libros vivos en un determinado año
+    - Listar libros por idiona
+    - Salir
 
-> Obtencion de informacion desde una API.
 
-- [API](https://www.exchangerate-api.com/)
 
-> Conversion de monedas
+- [API](https://gutendex.com/)
 
-    - Opcion de seleccionar la divisa.
-        + Seleccion de divisa por menu.
-        + Cantidad a convertir.
+> Apliacion
+
+    1. Busca libro en API
+    2. Guarda informacion del libro en Base de Datos
+    3. Diferentes manera de consultas
+
+
 
 ## Acceso al proyecto
 
-[Descarga los archivos desde Github](https://github.com/Chinicuil87/conversor)  
-[Generar Key API](https://www.exchangerate-api.com/)
+[Descarga los archivos desde Github](https://github.com/Chinicuil87/catalogoLibros)  
+
+[Spring-Initializr](https://start.spring.io/)
+
 
 ## Tecnologías utilizadas
 
@@ -71,6 +80,13 @@ FINALIZADO
 ![Static Badge](https://img.shields.io/badge/LENGUAJE-JAVA-orange)
 
 ![Static Badge](https://img.shields.io/badge/JDK-22-red)
+
+![Static Badge](https://img.shields.io/badge/Framework-Spring-green)
+
+![Static Badge](https://img.shields.io/badge/DB-Postgres-blue)
+
+![Static Badge](https://img.shields.io/badge/Aplicacion-Postman-red)
+
 
 ## Personas-Desarrolladores del Proyecto
 
