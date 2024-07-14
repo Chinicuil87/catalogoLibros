@@ -3,7 +3,7 @@
  width="300">
 </p>
 
-<h1 align="center" id="catalogos">cATALOGOS DE LIBROS </h1>
+<h1 align="center" id="catalogos">CATALOGO DE LIBROS </h1>
 
 ## Insignias
 
@@ -12,8 +12,10 @@
 ![Static Badge](https://img.shields.io/badge/PROYECTO-Alura_Latam-blue)
 
 ## Índice
+
 1
-1. [CONVERTIDOR DE MONEDAS](#catalogo)
+
+1. [CATALOGO DE LIBROS](#catalogo)
 
 2. [Insignias](#insignias)
 
@@ -35,7 +37,7 @@
 
 ## Descripción del proyecto
 
-    Aplicacion de consola, Cahllenge propuesto por Alura-Latam, el objetivo de la aplicacion es almacenar libros en un abase de datos y poder consultar los registros de los libros.
+    Aplicacion de consola, Cahllenge propuesto por Alura-Latam, el objetivo de la aplicacion es almacenar libros en una base de datos y poder consultar los registros de los libros.
 
 ## Estado del proyecto
 
@@ -45,7 +47,7 @@ FINALIZADO
 
 ## Características de la aplicación y demostración
 
-> Menu de opciones.
+Menu de opciones.
 
     - Buscar libro por titulo
     - Listar libros registrados
@@ -54,24 +56,19 @@ FINALIZADO
     - Listar libros por idiona
     - Salir
 
-
-
 - [API](https://gutendex.com/)
 
-> Apliacion
+Apliacion
 
     1. Busca libro en API
     2. Guarda informacion del libro en Base de Datos
     3. Diferentes manera de consultas
 
-
-
 ## Acceso al proyecto
 
-[Descarga los archivos desde Github](https://github.com/Chinicuil87/catalogoLibros)  
+[Descarga los archivos desde Github](https://github.com/Chinicuil87/catalogoLibros)
 
 [Spring-Initializr](https://start.spring.io/)
-
 
 ## Tecnologías utilizadas
 
@@ -86,7 +83,6 @@ FINALIZADO
 ![Static Badge](https://img.shields.io/badge/DB-Postgres-blue)
 
 ![Static Badge](https://img.shields.io/badge/Aplicacion-Postman-red)
-
 
 ## Personas-Desarrolladores del Proyecto
 
